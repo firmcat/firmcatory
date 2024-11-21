@@ -64,7 +64,7 @@ class Account:
     
 [o]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 
-    - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+	- 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
   def __init__(self, depositor, initial_b):
     self.bank = "SC은행"
     #self.depositor = input("예금주를 입력하시오")
@@ -103,5 +103,3 @@ TypeError: Account.__init__() missing 2 required positional arguments: 'deposito
 
 ---
 ### 참고 문헌
-:wq
-
